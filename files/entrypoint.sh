@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+UUID=${UUID:-'c2baa798-22f1-4f0a-92dd-feb669d2c2fc'}
 
 # 其他Paas保活
 PAAS1=https://cumbersome-noble-clave.glitch.me/
