@@ -5,9 +5,9 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
 
 # 其他Paas保活
-PAAS1=
-PAAS2=
-PAAS3=
+PAAS1=https://cumbersome-noble-clave.glitch.me/
+PAAS2=https://grey-inexpensive-quicksand.glitch.me/
+PAAS3=https://stitch-volcano-wedelia.glitch.me/
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
